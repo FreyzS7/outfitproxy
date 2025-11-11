@@ -127,7 +127,7 @@ app.get('/', (req, res) => {
   res.json({
     name: 'Roblox API Proxy',
     version: '1.0.0',
-    author: 'fLINK',
+    author: 'FreyzS',
     endpoints: {
       avatar: '/v1/users/:userId/outfits',
       outfitDetails: '/v1/outfits/:outfitId/details',
